@@ -13,6 +13,7 @@ This Python script automates the exploitation of a Grafana directory traversal v
 ## Prerequisites
 
 - Python 3.x
+- sqlite3
 - `curl` command-line tool
 - Required Python libraries: `argparse`, `requests`
 
