@@ -19,3 +19,7 @@ This Python script automates the exploitation of a Grafana directory traversal v
 
 ## Usage
 `python3 grafana_exploit.py <TARGET_IP> --port <TARGET_PORT>`
+
+## Credit
+- Thanks to Persees for the decoding function
+https://github.com/persees/grafana_exploits/blob/main/decoder.py
